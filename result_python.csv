@@ -1,0 +1,15 @@
+Name,Matrix Size,Time
+Standard,600,16.2891
+Standard,1000,83.1247
+Standard,1400,239.546
+Standard,1800,617.392
+Standard,2200,1063.2
+Standard,2600,1850.46
+Standard,3000,5480.68
+Element-Line,600,34.249
+Element-Line,1000,163.518
+Element-Line,1400,466.122
+Element-Line,1800,952.066
+Element-Line,2200,9184.61
+Element-Line,2600,1752.74
+Element-Line,3000,2613.18
